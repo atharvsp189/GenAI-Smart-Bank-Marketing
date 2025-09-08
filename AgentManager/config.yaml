@@ -1,0 +1,22 @@
+qdrant:
+  url: ""
+  collection_name: "bank_of_dholakpur"
+  api_key: ""
+
+embedding:
+  model: "models/text-embedding-004"
+  collection_name: "bank_of_dholakpur"
+
+lm:
+  base_model:
+    model: "models/gemini-2.5-flash"
+    temperature: 0.7
+    api_key: ""
+  
+  openai:
+    model: "gpt-4o-mini"
+    temperature: 0.7
+    api_key: ""
+
+google:
+  api_key: ""

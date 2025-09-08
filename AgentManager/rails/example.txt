@@ -1,0 +1,23 @@
+# from nemoguardrails import LLMRails, RailsConfig
+
+# base_dir = os.path.dirname(__file__)
+# print("Base Dir: ", base_dir)
+# config_path = os.path.join(base_dir, "rails")
+# print("Config Path: ", config_path)
+
+# lm = get_lm_handler()
+# llm = lm.get_base_llm()
+
+# config = RailsConfig.from_path(config_path)
+# rails_app = LLMRails(config, llm=llm)
+
+
+        # if guardrails_result.output: # guardrailing input
+            # user_input += f"Input Guardrails output: {guardrails_result}"
+            # agent_response = agent.run(user_input)
+
+                        # else: # If Guardrails blocked it, return guardrails message
+                # agent_response = guardrails_result.responses[0].get("content", "Blocked by safety filters.")
+            
+            # final_result = rails_app.generate(prompt=agent_response) # guardrailing output
+            
