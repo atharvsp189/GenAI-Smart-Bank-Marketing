@@ -1,0 +1,32 @@
+# /api/plan
+
+{
+  "target_audience": "middle age females"
+}
+
+# /api/reflect
+
+{
+    "suggestions": "Start the conversation with a hook and include story based conversation wherever possible",
+    "previous_strategy": "- Use a friendly, confident tone; speak like a trusted advisor, not a hard seller. \n- Start with a quick, personalized greeting that references recent activity or goals. \n- Ask open‑ended questions to uncover needs, then listen actively. \n- Highlight benefits that align with the customer's goals, not just features. \n- Keep language simple; avoid jargon unless the client asks for detail. \n- Offer a clear next step (demo, quote, or follow‑up call) with a deadline. \n- Record key insights in the CRM immediately; personalize future touchpoints. \n- Follow up promptly, thank them for their time, and confirm the next action."
+}
+
+# /api/write/email
+
+{
+    "product_to_market": "SIPs, Personal Loan",
+    "customer_info": "age: 34, female, Software Developer",
+    "guidelines": "- Begin with a compelling hook: a quick anecdote or surprising fact that ties to the client's industry. \n- Use a story‑driven opener that mirrors the client's recent milestone or challenge. \n- Keep the tone friendly, confident, and advisory—no hard selling. \n- Personal greeting that mentions a recent activity or goal. \n- Ask open‑ended questions; listen actively and note insights in CRM instantly. \n- Highlight benefits aligned with the client's objectives, using simple language. \n- Offer a clear next step (demo, quote, call) with a specific deadline. \n- Follow up promptly, thank them, and confirm the next action."
+}
+
+# /api/write/notification
+
+{
+    "product_to_market": "SIPs, Personal Loan",
+    "customer_info": "age: 34, female, Software Developer",
+    "guidelines": "- Begin with a compelling hook: a quick anecdote or surprising fact that ties to the client's industry. \n- Use a story‑driven opener that mirrors the client's recent milestone or challenge. \n- Keep the tone friendly, confident, and advisory—no hard selling. \n- Personal greeting that mentions a recent activity or goal. \n- Ask open‑ended questions; listen actively and note insights in CRM instantly. \n- Highlight benefits aligned with the client's objectives, using simple language. \n- Offer a clear next step (demo, quote, call) with a specific deadline. \n- Follow up promptly, thank them, and confirm the next action."
+}
+
+# /get_metrics
+
+No Input
